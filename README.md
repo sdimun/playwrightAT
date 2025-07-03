@@ -9,8 +9,29 @@ As Playwright requires NodeJS 14+, check if you have already installed NodeJS wi
 
 ```bash
 node -v
-
+```
 
 If you don't have Node.js at all, or you don't have right version, you can download it from [Node.js](https://nodejs.org/en/download).
 
-## Installation
+## Download task
+
+Download or clone task from [github](https://github.com/sdimun/playwrightAT).
+
+
+## Run tests
+
+Navigate to file location when you saved task via terminal. 
+
+### Headless mode
+You can simply run all tests in headless mode with command:
+
+```bash
+npx playwright test
+```
+
+### Headed mode
+
+```bash
+npx playwright test --headed
+```
+
