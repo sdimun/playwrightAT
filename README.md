@@ -5,7 +5,7 @@ This task contains end-to-end test for the [Veeam website](https://www.veeam.com
 ## Installation
 
 First of all I had to install [Playwright](https://playwright.dev/docs/intro) and [VSCode](https://code.visualstudio.com/download).
-As Playwright requires NodeJS 14+, check if you have already installed NodeJS with command:
+As Playwright requires Node.js 14+, check if you have already installed NodeJS with command:
 
 ```bash
 node -v
