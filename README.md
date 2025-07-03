@@ -30,6 +30,7 @@ npx playwright test
 ```
 
 ### Headed mode
+You can simply run all tests in headed mode with command:
 
 ```bash
 npx playwright test --headed
