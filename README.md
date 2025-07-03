@@ -4,18 +4,6 @@ This task contains end-to-end test for the [Veeam website](https://www.veeam.com
 
 ## 📂 Project Structure
 .
-├── tests/
-│ ├── registrationErrorMessage.spec.js
-│ ├── credentials.json
-│ ├── pages
-│  ├── ForumPage.js
-│  └── VeeamPage.js
-├── playwright.config.js
-├── .gitignore
-└── README.md
-
-
-.
 ├── dir1
 │   ├── file11.ext
 │   └── file12.ext
