@@ -13,5 +13,6 @@ This task contains end-to-end test for the [Veeam website](https://www.veeam.com
 ├── playwright.config.js
 ├── .gitignore
 └── README.md
+.
 
 
